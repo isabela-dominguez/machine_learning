@@ -5,4 +5,5 @@ import PyPDF2
 from PyPDF2 import PdfFileReader 
 import tabula 
 
+
 path = "transcript.pdf"
